@@ -1,0 +1,4 @@
+Dashboard:
+https://lookerstudio.google.com/reporting/e0b5195e-cd78-4443-8006-4fffc890a039
+Query:
+https://console.cloud.google.com/bigquery?sq=147855269776:fa97f43621664f86a70547166f50570c
